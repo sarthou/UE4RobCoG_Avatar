@@ -47,6 +47,7 @@ $ git clone --recursive -b master https://github.com/robcog-iai/RobCoG.git
 ```
 
 ### Documentation
+* [Wiki](https://github.com/code-iai/RobCoG/wiki) Specific to RobCoG + Avatar.
 
 * [MC](Documentation/MC.md)
 
