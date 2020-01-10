@@ -17,7 +17,7 @@
 [submodule "Content/A_Items"]
 	path = Content/A_Items
 	url = https://github.com/code-iai/A_Items.git
-    branch = master
+        branch = master
 [submodule "Plugins/USemLog"]
 	path = Plugins/USemLog
 	url = https://github.com/robcog-iai/USemLog.git
@@ -53,11 +53,11 @@
 [submodule "Plugins/USlicing"]
 	path = Plugins/USlicing
 	url = https://github.com/robcog-iai/USlicing.git
-    branch = master
+        branch = master
 [submodule "Plugins/UIAIAvatar"]
 	path = Plugins/UIAIAvatar
 	url = https://github.com/code-iai/UIAIAvatar.git
-    branch = avatar-dev
+        branch = avatar-dev
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
 	url = https://github.com/robcog-iai/UROSBridge.git
@@ -66,6 +66,3 @@
 	path = Plugins/UE4DTW
 	url = https://github.com/code-iai/UE4DTW.git
 	branch = master
-[submodule "UE4DTW"]
-	path = UE4DTW
-	url = https://github.com/code-iai/UE4DTW.git
