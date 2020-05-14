@@ -1,6 +1,6 @@
 [submodule "Meshes/Private"]
 	path = Meshes/Private
-	url = https://github.com/robcog-iai/PrivateMeshes.git
+	url = https://github.com/NeumannM89/PrivateContent.git
 	branch = master
 [submodule "Meshes/Public"]
 	path = Meshes/Public
