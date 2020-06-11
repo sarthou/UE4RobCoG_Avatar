@@ -60,3 +60,6 @@
 [submodule "URoboVision"]
 	path = Plugins/URoboVision
 	url = git@github.com:urobosim/URoboVision.git
+[submodule "UTFPublisher"]
+	path = Plugins/UTFPublisher
+	url = git@github.com:robcog-iai/UTFPublisher.git
