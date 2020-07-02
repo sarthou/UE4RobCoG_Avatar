@@ -40,7 +40,7 @@
 	branch = master
 [submodule "Plugins/USlicing"]
 	path = Plugins/USlicing
-	url = https://github.com/robcog-iai/USlicing.git
+	url = https://github.com/slicing/USlicing.git
         branch = master
 [submodule "Plugins/UIAIAvatar"]
 	path = Plugins/UIAIAvatar
