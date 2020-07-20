@@ -63,3 +63,6 @@
 [submodule "Plugins/UROSWorldControl"]
 	path = Plugins/UROSWorldControl
 	url = git@github.com:urobosim/UROSWorldControl.git
+[submodule "Plugins/URoboSim"]
+	path = Plugins/URoboSim
+	url = git@gitlab.informatik.uni-bremen.de:mine1/URoboSim.git
