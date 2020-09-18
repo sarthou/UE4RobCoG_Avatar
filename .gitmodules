@@ -35,7 +35,7 @@
 	url = https://github.com/robcog-iai/libmongo.git
 	branch = master
 [submodule "Plugins/UElectricalDevices"]
-	path = Plugins/UElectricalDevices
+	path = Plugins/ElectricalDevices
 	url = https://github.com/robcog-iai/UElectricalDevices.git
 	branch = master
 [submodule "Plugins/USlicing"]
@@ -66,3 +66,4 @@
 [submodule "Plugins/URoboSim"]
 	path = Plugins/URoboSim
 	url = git@gitlab.informatik.uni-bremen.de:mine1/URoboSim.git
+
