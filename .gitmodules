@@ -6,10 +6,6 @@
 	path = Scripts
 	url = https://github.com/robcog-iai/Scripts.git
 	branch = master
-[submodule "Content/Private"]
-	path = Content/Private
-	url = https://github.com/robcog-iai/PrivateContent.git
-	branch = master
 [submodule "Content/A_Items"]
 	path = Content/A_Items
 	url = https://github.com/code-iai/A_Items.git
