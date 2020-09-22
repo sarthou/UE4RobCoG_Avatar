@@ -45,7 +45,7 @@
 [submodule "Plugins/UIAIAvatar"]
 	path = Plugins/UIAIAvatar
 	url = https://github.com/code-iai/UIAIAvatar.git
-        branch = avatar-dev
+        branch = 4.22
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
 	url = https://github.com/robcog-iai/UROSBridge.git
