@@ -40,7 +40,7 @@
         branch = avatar-dev
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
-	url = https://github.com/robcog-iai/UROSBridge.git
+	url = https://github.com/urobosim/UROSBridge.git
 	branch = master
 [submodule "Plugins/UE4DTW"]
 	path = Plugins/UE4DTW
@@ -57,5 +57,6 @@
 	url = git@github.com:urobosim/UROSWorldControl.git
 [submodule "Plugins/URoboSim"]
 	path = Plugins/URoboSim
-	url = git@gitlab.informatik.uni-bremen.de:mine1/URoboSim.git
+	url = git@github.com:urobosim/URoboSim.git
+	branch = dev
 
