@@ -41,7 +41,7 @@ $ git submodule update --init --recursive
 * or in one command
 
 ```
-$ git clone --recursive -b master https://github.com/robcog-iai/RobCoG.git
+$ git clone --recursive -b ai4hri https://github.com/code-iai/UE4RobCoG_Avatar.git
 ```
 
 ### Documentation
